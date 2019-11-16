@@ -28,6 +28,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 public class DetailActivity extends AppCompatActivity {
+
     Bitmap selectedImage;
     ImageView imageView;
     EditText artNameText, painterNameText, yearText;
